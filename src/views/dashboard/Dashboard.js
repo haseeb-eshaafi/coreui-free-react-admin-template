@@ -310,7 +310,7 @@ const Dashboard = () => {
                     </div>
                   </div>
                   <div className="divider text-center">
-                    <CButton color="link" size="sm" className="text-muted">
+            <CButton color="link" size="sm" className="text-muted">
                       <CIcon name="cil-options" />
                     </CButton>
                   </div>
